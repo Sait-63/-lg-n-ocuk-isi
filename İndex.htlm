@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Çılgın Çocuk İso</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; background-color: #fdfdfd; color: #333; }
+    header { background-color: #222; color: white; padding: 20px; text-align: center; }
+    nav { background: #444; padding: 10px; text-align: center; }
+    nav a { color: white; margin: 0 15px; text-decoration: none; font-weight: bold; }
+    main { padding: 20px; max-width: 800px; margin: auto; }
+    footer { background: #222; color: white; text-align: center; padding: 10px; margin-top: 40px; }
+    .post { margin-bottom: 30px; }
+    .post h2 { color: #c0392b; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Çılgın Çocuk İso</h1>
+    <p>Hayat, macera ve biraz da kahkaha!</p>
+  </header>
+  <nav>
+    <a href="#ana">Ana Sayfa</a>
+    <a href="#hakkimda">Hakkımda</a>
+    <a href="#blog">Blog</a>
+    <a href="#iletisim">İletişim</a>
+  </nav>
+  <main>
+    <section id="ana">
+      <h2>Hoş Geldin!</h2>
+      <p>Bu blogda Çılgın Çocuk İso'nun düşüncelerini, anılarını ve hayata dair yorumlarını bulacaksın. Takipte kal!</p>
+    </section>
+
+    <section id="hakkimda">
+      <h2>Hakkımda</h2>
+      <p>Ben İso! Maceracı ruhumla dünyayı keşfetmeye, yaşadıklarımı ise bu blogda paylaşmaya bayılıyorum. Kahve, müzik ve biraz da çılgınlık olmadan bir gün bile geçiremem.</p>
+    </section>
+
+    <section id="blog">
+      <h2>Blog Yazıları</h2>
+      <div class="post">
+        <h2>İlk Yazım: Merhaba Dünya!</h2>
+        <p>Bugün blogumu açtım. Yeni bir maceraya başlıyorum. Kafamda deli sorular, kalbimde heyecan... Hadi bakalım neler olacak!</p>
+      </div>
+      <div class="post">
+        <h2>Gece Yürüyüşleri ve Düşünceler</h2>
+        <p>Sessizlik, yıldızlar ve serin hava... Bazen en iyi konuşmalar kendinle yaptıkların olur. Gece yürüyüşlerinin tadı bir başka.</p>
+      </div>
+    </section>
+
+    <section id="iletisim">
+      <h2>İletişim</h2>
+      <p>Bana ulaşmak istersen: <strong>cilgincocukiso@gmail.com</strong></p>
+      <p>Yakında bir iletişim formu da ekleyeceğim!</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 Çılgın Çocuk İso. Tüm hakları saklıdır.</p>
+  </footer>
+</body>
+</html>
